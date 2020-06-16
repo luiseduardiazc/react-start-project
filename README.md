@@ -1,0 +1,1 @@
+### Init configuration for profesional React Projects
